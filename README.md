@@ -18,9 +18,7 @@ Este repositorio forma parte de un desafío de análisis de datos. El objetivo e
 ## 🚀 Instalación
 
 1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   (https://github.com/Luis-Forceable/Proyecto-1.git)
 Instala las dependencias necesarias:
 bash
 pip install pandas matplotlib seaborn
